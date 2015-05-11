@@ -1,0 +1,8 @@
+*.pyc
+.Python
+db.sqlite3
+bin
+lib
+include
+
+
